@@ -1,16 +1,16 @@
-let A=11;
+let A=50;
 let count=0;
 
-  for(let i=2;i<=A;i++){
+for(let i=1;i<=A;i++){
     if(A%i==0){
       count+=1;
     }
   }
-  if (count){
-     console.log("False" )
+if (count2){
+     console.log("True")
     
   }
-  else{
-    console.log("True ")
+else{
+     console.log("False")
   }  
 

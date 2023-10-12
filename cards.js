@@ -7,5 +7,5 @@ function oddSumBelowN(num) {
         }
           
     }
-    console.log(num)
+    console.log(sum)
 }
